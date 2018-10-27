@@ -1,0 +1,102 @@
+# Copyright (C) 2016 
+# This file is distributed under the same license as the  package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://oceanwp.org/support/\n"
+"POT-Creation-Date: 2018-06-20 20:54+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: OceanWP\n"
+"Language-Team: OceanWP\n"
+"X-Generator: Poedit 2.0.8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _esc_attr__;esc_attr_x;esc_attr_e;esc_html__;"
+"esc_html_e;esc_html_x;__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ocean-full-screen.php:147 ocean-full-screen.php:156
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ocean-full-screen.php:278
+msgid "Full Screen"
+msgstr ""
+
+#: ocean-full-screen.php:288
+msgid "Make This Page Full Screen"
+msgstr ""
+
+#: ocean-full-screen.php:289
+msgid ""
+"Enable or disable the full screen effect on this page. The title and "
+"footer will be disabled by activating this setting."
+msgstr ""
+
+#: ocean-full-screen.php:291 ocean-full-screen.php:334
+msgid "Enable"
+msgstr ""
+
+#: ocean-full-screen.php:292 ocean-full-screen.php:335
+msgid "Disable"
+msgstr ""
+
+#: ocean-full-screen.php:310
+msgid "Scrolling Speed"
+msgstr ""
+
+#: ocean-full-screen.php:311
+msgid "It is the scrolling speed between each sections"
+msgstr ""
+
+#: ocean-full-screen.php:331
+msgid "Add Navigation"
+msgstr ""
+
+#: ocean-full-screen.php:332
+msgid "Display a dot navigation on the side."
+msgstr ""
+
+#: ocean-full-screen.php:353
+msgid "Navigation Position"
+msgstr ""
+
+#: ocean-full-screen.php:354
+msgid "Choose your navigation position."
+msgstr ""
+
+#: ocean-full-screen.php:356
+msgid "Left"
+msgstr ""
+
+#: ocean-full-screen.php:357
+msgid "Right"
+msgstr ""
+
+#: ocean-full-screen.php:375
+msgid "Navigation Color"
+msgstr ""
+
+#: ocean-full-screen.php:376 ocean-full-screen.php:393
+msgid "Select a color. Hex code, ex: #555"
+msgstr ""
+
+#: ocean-full-screen.php:392
+msgid "Navigation Tooltip Color"
+msgstr ""
+
+#: ocean-full-screen.php:409
+msgid "Disable on Responsive"
+msgstr ""
+
+#: ocean-full-screen.php:410
+msgid "Enter a screen width from where you want to disable the slide effect."
+msgstr ""

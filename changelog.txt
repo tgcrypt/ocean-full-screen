@@ -1,0 +1,14 @@
+= 1.0.4 =
+- Updated: fullPage version.
+
+= 1.0.3 =
+- Fixed: Scroll issue in the Elementor editor.
+
+= 1.0.2 =
+- Fixed: Navigation fields issue on the OceanWP Settings metabox.
+
+= 1.0.1 =
+- Fixed: Little height issue if scrolling effect disabled in responsive.
+
+= 1.0.0 =
+- Initial release.
